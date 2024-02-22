@@ -39,6 +39,5 @@ public class Vertex {
 	public boolean equals(Object v) {
 		return this.city.equals(((Vertex)v).city);
 	}
-	
 
 }
